@@ -104,7 +104,7 @@ header .navigation li {
 
 header .navigation li a {
   justify-content: space-between;
-  color: #111;
+  color: #fff;
   text-decoration: none;
 }
 
@@ -415,6 +415,7 @@ section {
   header .navigation.active li a {
     font-size: 2em;
     font-weight: 400;
+    color: #111;
   }
 
   header .navigation.active li a:hover {
